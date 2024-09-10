@@ -38,6 +38,17 @@
 - Importe no Metamask (caso não tenha aparecido automaticamente)
 - Seu token está pronto para uso!
 
+
+## Alternativa
+### CherrySwap
+- Acesse Blockchain RPCs (https://rpc.info/)
+  - Em Filters -> OKEx
+  - Utilize os dados da Mainnet para conectar com o Metamask.
+- Acesse CherrySwap (https://www.cherryswap.net/#/swap)
+- Utile a extensão do Metamask para estabelecer a conexão
+- No menu, clique em Ferramentas -> Create Token
+- Preencha os campos da página.
+  - Obs.: é preciso ter OKT para gerar o contrato.
   
 
 
